@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+#a {
+    text-align: left;
+}
+
+#b { 
+    text-align: right;
+}
+
+footer {
+    margin-top: 5em;
+} 
